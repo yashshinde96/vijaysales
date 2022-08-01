@@ -4,7 +4,7 @@ var app=express();
 
 app.get("/",(req, res)=>{
     res.send(
-            "<h1>Vijay Sales </h1>"
+            "<h1>Vijay Sales YASH </h1>"
             +"<hr/>"
             +"<h3>Smart Devices for sale</h3>"
             + "<br/>"
